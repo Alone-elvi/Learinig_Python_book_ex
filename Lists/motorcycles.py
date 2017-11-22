@@ -6,7 +6,8 @@ print (motorcycles)
 motorcycles[0] = 'ducati'
 print (motorcycles)
 
-motorcycles = []
+del motorcycles[:]
+
 motorcycles.append('honda')
 motorcycles.append('yamaha')
 motorcycles.append('suzuki')

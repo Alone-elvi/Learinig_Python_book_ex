@@ -2,21 +2,19 @@
 
 countries = ['Germany', 'France', 'Holland', 'Szech', 'Portugal']
 
-print (countries)
-print (sorted(countries))
-print (countries)
-print (sorted(countries, reverse=True))
-print (countries)
+print(countries)
+print(sorted(countries))
+print(countries)
+print(sorted(countries, reverse=True))
+print(countries)
 countries.reverse()
-print (countries)
+print(countries)
 countries.reverse()
-print (countries)
+print(countries)
 countries.sort()
-print (countries)
+print(countries)
 countries.sort(reverse=True)
-print (countries)
+print(countries)
 
 numbers = list(range(3, 6))
 print(numbers)
-
-

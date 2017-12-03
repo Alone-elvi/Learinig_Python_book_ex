@@ -1,4 +1,4 @@
-#!/home/alone5elvi/PycharmProjects/Learinig_Python_book_ex/venv/bin/python
+#!/Users/alone_elvi/myvirtualenvs/Learning_Python_boo_ex/bin/python
 
 import sys
 import getopt

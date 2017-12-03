@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/alone5elvi/PycharmProjects/Learinig_Python_book_ex/venv"
+VIRTUAL_ENV="/Users/alone_elvi/myvirtualenvs/Learning_Python_boo_ex"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

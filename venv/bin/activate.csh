@@ -7,7 +7,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/home/alone5elvi/PycharmProjects/Learinig_Python_book_ex/venv"
+setenv VIRTUAL_ENV "/Users/alone_elvi/myvirtualenvs/Learning_Python_boo_ex"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

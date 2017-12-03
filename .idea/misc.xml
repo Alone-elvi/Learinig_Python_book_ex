@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< Temporary merge branch 1
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.5.2 (/usr/bin/python3.5)" project-jdk-type="Python SDK" />
+=======
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.10 (/usr/bin/python)" project-jdk-type="Python SDK" />
+>>>>>>> origin/master
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.3 virtualenv at ~/myvirtualenvs/Learning_Python_boo_ex" project-jdk-type="Python SDK" />
+>>>>>>> Temporary merge branch 2
 </project>

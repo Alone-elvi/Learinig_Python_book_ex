@@ -7,22 +7,24 @@ import pygame
 def check_keydown_events(event, rocket):
     if event.key == pygame.K_RIGHT:
         rocket.moving_right = True
-    if event.key == pygame.K_LEFT:
+    elif event.key == pygame.K_LEFT:
         rocket.moving_left = True
-    if event.key == pygame.K_UP:
+    elif event.key == pygame.K_UP:
         rocket.moving_up = True
-    if event.key == pygame.K_DOWN:
+    elif event.key == pygame.K_DOWN:
         rocket.moving_down = True
-
+    elif event.key == pygame.K_SPACE:
+        pass
+    
 
 def check_keyup_evevns(event, rocket):
     if event.key == pygame.K_RIGHT:
         rocket.moving_right = False
-    if event.key == pygame.K_LEFT:
+    elif event.key == pygame.K_LEFT:
         rocket.moving_left = False
-    if event.key == pygame.K_UP:
+    elif event.key == pygame.K_UP:
         rocket.moving_up = False
-    if event.key == pygame.K_DOWN:
+    elif event.key == pygame.K_DOWN:
         rocket.moving_down = False
 
 

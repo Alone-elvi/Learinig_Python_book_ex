@@ -11,3 +11,13 @@ class Settings:
         self.rocket_height = 120
 
         self.rocket_speed_factor = 2
+
+        # Пуля
+        self.bullet_width = 1
+        self.bullet_height = 15
+        self.bullet_speed_factor = 1
+        self.bullet_color = 255, 0, 0
+
+        # Разрешенное количество пуль на экране
+        self.bullet_allowed = 3
+
